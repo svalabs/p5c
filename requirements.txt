@@ -1,0 +1,2 @@
+kubernetes==29.0.0
+survey==5.3.0
